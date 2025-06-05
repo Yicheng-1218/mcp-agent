@@ -26,7 +26,7 @@
 ## 📋 環境需求
 
 - Python 3.10+
-- UV ["Python 套件管理工具"](https://github.com/astral-sh/uv)
+- UV [Python 套件管理工具](https://github.com/astral-sh/uv)
 
 ## 🚀 安裝設定
 
@@ -86,7 +86,7 @@ llm-pydanitc-agent/
 │   └── utils/
 │       └── messages.py       # 訊息處理工具
 └── static/                   # 靜態資源
-    └── kitty2.png           # 聊天機器人頭像
+    └── kitty.png           # 聊天機器人頭像
 ```
 
 ## 🔧 MCP 伺服器管理
