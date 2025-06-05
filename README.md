@@ -33,8 +33,8 @@
 ### 1. 複製專案
 
 ```bash
-git clone <your-repo-url>
-cd llm-pydanitc-agent
+git clone https://github.com/Yicheng-1218/mcp-agent-demo.git
+cd mcp-agent-demo
 ```
 
 ### 2. 安裝依賴
